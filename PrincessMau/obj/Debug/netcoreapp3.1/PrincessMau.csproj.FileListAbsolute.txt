@@ -1,0 +1,14 @@
+C:\Users\maure\Desktop\Repos\PrincessMau\PrincessMau\bin\Debug\netcoreapp3.1\PrincessMau.exe
+C:\Users\maure\Desktop\Repos\PrincessMau\PrincessMau\bin\Debug\netcoreapp3.1\PrincessMau.deps.json
+C:\Users\maure\Desktop\Repos\PrincessMau\PrincessMau\bin\Debug\netcoreapp3.1\PrincessMau.runtimeconfig.json
+C:\Users\maure\Desktop\Repos\PrincessMau\PrincessMau\bin\Debug\netcoreapp3.1\PrincessMau.runtimeconfig.dev.json
+C:\Users\maure\Desktop\Repos\PrincessMau\PrincessMau\bin\Debug\netcoreapp3.1\PrincessMau.dll
+C:\Users\maure\Desktop\Repos\PrincessMau\PrincessMau\bin\Debug\netcoreapp3.1\PrincessMau.pdb
+C:\Users\maure\Desktop\Repos\PrincessMau\PrincessMau\obj\Debug\netcoreapp3.1\PrincessMau.csproj.AssemblyReference.cache
+C:\Users\maure\Desktop\Repos\PrincessMau\PrincessMau\obj\Debug\netcoreapp3.1\PrincessMau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maure\Desktop\Repos\PrincessMau\PrincessMau\obj\Debug\netcoreapp3.1\PrincessMau.AssemblyInfoInputs.cache
+C:\Users\maure\Desktop\Repos\PrincessMau\PrincessMau\obj\Debug\netcoreapp3.1\PrincessMau.AssemblyInfo.cs
+C:\Users\maure\Desktop\Repos\PrincessMau\PrincessMau\obj\Debug\netcoreapp3.1\PrincessMau.csproj.CoreCompileInputs.cache
+C:\Users\maure\Desktop\Repos\PrincessMau\PrincessMau\obj\Debug\netcoreapp3.1\PrincessMau.dll
+C:\Users\maure\Desktop\Repos\PrincessMau\PrincessMau\obj\Debug\netcoreapp3.1\PrincessMau.pdb
+C:\Users\maure\Desktop\Repos\PrincessMau\PrincessMau\obj\Debug\netcoreapp3.1\PrincessMau.genruntimeconfig.cache
